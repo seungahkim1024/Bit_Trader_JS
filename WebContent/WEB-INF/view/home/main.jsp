@@ -41,6 +41,6 @@ $('#cust_login').click(function(){
 });
 $('#algo_access').click(function(){
 	// encap.main();
-	inherit.main();
+	test.main();
 });
 </script>

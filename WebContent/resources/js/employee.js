@@ -45,6 +45,7 @@ $('#cate_delete').click(()=>{
 				+'</form>');
 });
 
+
 $('#cate_update').click(()=>{
     $('#cate_side_menu > li').attr('style','background-color: white');
     $('#cate_update').attr('style','background-color: #5bc0de96');
